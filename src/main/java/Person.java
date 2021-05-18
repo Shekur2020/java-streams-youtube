@@ -11,14 +11,17 @@ public class Person {
   }
 
   public String getName() {
+
     return name;
   }
 
   public int getAge() {
+
     return age;
   }
 
   public Gender getGender() {
+
     return gender;
   }
 
